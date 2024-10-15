@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Announcement = () => {
   return (
     <div className="bg-primary px-4 py-3 text-white">

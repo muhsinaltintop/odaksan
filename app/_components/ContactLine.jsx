@@ -1,5 +1,5 @@
-import React from 'react'
 import SocialIcons from './_atoms/SocialIcons'
+import { AdressPin, Mail, Phone } from './_atoms/Icons'
 
 const ContactLine = () => {
   return (
@@ -12,13 +12,18 @@ const ContactLine = () => {
 
     <SocialIcons/>
   </div>
-  <p className="text-center font-medium sm:text-left">
-  Sanayi Mh. 60363 Cd. No: 38 Şehitkamil / Gaziantep
+  <p className="flex items-center text-sm font-medium sm:text-left gap-2">
+    <AdressPin/>
+    Sanayi Mh. 60363 Cd. No: 38 Şehitkamil / Gaziantep
+
+
   </p>
-  <p className="text-center font-medium sm:text-left">
+  <p className="flex items-center text-sm font-medium sm:text-left gap-2">
+    <Phone/>
   +90 342 218 02 02
   </p>
-  <p className="text-center font-medium sm:text-left">
+  <p className="flex items-center text-sm font-medium sm:text-left gap-2">
+    <Mail/>
   satis@odaksan.com
   </p>
   
