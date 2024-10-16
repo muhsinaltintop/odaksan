@@ -83,4 +83,24 @@ export const HomeIcon = () => (
       </g>
     </svg>
   );
-  
+
+  export const Arrow = ({flipped}) => (
+    <svg
+    className={`w-6 h-10 fill-black stroke-white ${flipped ? 'transform scale-x-[-1]' : ''}`}
+  viewBox="0 0 18 24"
+  xmlns="http://www.w3.org/2000/svg"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <g stroke-width="0"></g>
+  <g stroke-linecap="round" stroke-linejoin="round"></g>
+  <g>
+    <path
+      d="M17,12,5,21V3Z"
+      class="fill-none"
+    />
+  </g>
+</svg>
+
+  )
