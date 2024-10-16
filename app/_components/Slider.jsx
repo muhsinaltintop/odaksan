@@ -4,7 +4,7 @@ import SingleSlide from './_atoms/SingleSlide';
 import { Arrow } from './_atoms/Icons';
 
 const SliderComponent = () => {
-  const slides = [<SingleSlide />, <SingleSlide />, <SingleSlide />]; // Slider için slide'lar
+  const slides = [<SingleSlide key={0} />, <SingleSlide key={1} />, <SingleSlide key={2} />]; // Slider için slide'lar
   const [currentSlide, setCurrentSlide] = useState(0);
 
   // Bir sonraki slide'a geçiş fonksiyonu, useCallback ile sarıldı
