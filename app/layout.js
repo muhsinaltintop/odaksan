@@ -1,3 +1,4 @@
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import localFont from "next/font/local";
 import "./globals.css";
 import Announcement from "./_components/_atoms/Announcement";
@@ -30,6 +31,7 @@ export default function RootLayout({ children }) {
         <div className='hidden min-[950px]:block'><ContactLine/></div>
         <div><Header/></div>
         {children}
+        <SpeedInsights />
       </body>
     </html>
   );
