@@ -6,9 +6,7 @@ import Header from './Header'
 const MainPage = () => {
   return (
     <div>
-        <div><Announcement/></div>
-        <div className='hidden min-[950px]:block'><ContactLine/></div>
-        <div><Header/></div>
+        
     </div>
   )
 }
