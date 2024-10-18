@@ -1,21 +1,71 @@
+"use client"
 import React from 'react'
+import Slider from 'react-slick';
+import ProductCard from './_atoms/ProductCard';
 import products from '../../public/_mocks_/products.json'
-import ProductCard from './_atoms/ProductCard'
+
+function Arrow(props) {
+  const { className, style, onClick } = props;
+
+  return (
+    <div className={className} style={{...style, display: "block", background: "black", borderRadius: "100%", scale: "2" }} onClick={onClick}/>
+  )
+}
 
 const ProductCardSlider = () => {
-  return (
-    <div>
+  var settings = {
+    dots: true,
+    infinite: true,
+    speed: 500,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    initialSlide: 0,
+    nextArrow:  <Arrow/>,
+    prevArrow: <Arrow/>,
 
-      <div className='text-3xl text-center my-4 text-primary font-bold'> Ürünler</div>
-      <div className=" flex gap-4 slider-container">
-        {products.map((product) => (
-          <div key={product.id} className='product-card-wrapper'>
-            <ProductCard product={product} />
-          </div>
-        ))}
-      </div>
-      </div>
-  )
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 3,
+          infinite: true,
+          dots: true
+        }
+      },
+      {
+        breakpoint: 600,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 2,
+          initialSlide: 2
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          arrows:false
+        }
+      }
+    ]
+  };
+  return (
+    <div className="slider-container">
+      <Slider {...settings}>
+        {products.map((product)=> {
+          return(
+            <div key={product.id}>
+
+            <ProductCard product={product}/>
+            </div>
+          )
+        })}
+
+      </Slider>
+    </div>
+  );
 }
 
 export default ProductCardSlider

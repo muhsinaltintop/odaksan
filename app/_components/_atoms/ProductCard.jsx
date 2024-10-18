@@ -5,7 +5,7 @@ import React from 'react'
 
 const ProductCard = ({product}) => {
   return (
-<div className='border-[1px] border-neutral-700 rounded-xl'>
+<div className='border-[1px] border-neutral-700 rounded-xl mx-4'>
         <Link href={"#"}>
         <div className='w-full h-auto py-20'>
             <div className='w-full flex justify-center items-center'>
