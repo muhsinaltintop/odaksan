@@ -1,0 +1,191 @@
+[
+    {   
+        "id": 1,
+        "category" : "Mobil Streçleme Makineleri",
+        "productName" : "Focus Servo Çift Motorolu Öngermeli Streçelme Makinesi",
+        "featuredImage" : "/products/srd.png",
+        "images" : ["/products/smt.png", "/products/srd.png"],
+        "details": 
+            { "spot" : "Dünyada sadece Odaksan Mühendislik A.Ş. tarafından üretilen yüksek performanslı ve dayanıklı DC servo motorlu mobil palet streçleme robotları. 7'' büyük dokunmatik ekranı ve reçete kaydetme özelliğiyle kullanım kolaylığı. İki farklı öngerme seçeneği.",
+             "detailList" : [ "Motor Tipi: Servo",
+             "Öngerme Teknolojisi: Çift Motor",
+             "Öngerme Oranı: %200-%500 Ayarlanabilir.",
+             "Dokunmatik Panel: 7''",
+             "Kontrol Ünitesi: PLC",
+             "Her Motor İçin Ayrı Sürücü: Var",
+             "Program Kısa Yolları: Var",
+             "Dikme Yükseklikleri: 260cm,280cm,300cm",
+             "Elektrostatik Boya: Var",
+             "Şarj Edilebilir Redresör: Harici",
+             "Akü Değişimi: Var",
+             "Akü Gücü: 120 A Traksiyoner",
+             "Dış Kaporta: Metal"
+
+             ]
+          } 
+
+
+    },
+    {   
+        "id": 2,
+        "category" : "Mobil Streçleme Makineleri",
+        "productName" : "Focus Servo Tek Motorolu Öngermeli Streçelme Makinesi",
+        "featuredImage" : "/products/srd.png",
+        "images" : ["/products/smt.png", "/products/srd.png"],
+        "details": 
+            { "spot" : "Dünyada sadece Odaksan Mühendislik A.Ş. tarafından üretilen yüksek performanslı ve dayanıklı DC servo motorlu mobil palet streçleme robotları. 7'' büyük dokunmatik ekranı ve reçete kaydetme özelliğiyle kullanım kolaylığı. İki farklı öngerme seçeneği.",
+             "detailList" : [ "Motor Tipi: Servo",
+             "Öngerme Teknolojisi: Çift Motor",
+             "Öngerme Oranı: %200-%500 Ayarlanabilir.",
+             "Dokunmatik Panel: 7''",
+             "Kontrol Ünitesi: PLC",
+             "Her Motor İçin Ayrı Sürücü: Var",
+             "Program Kısa Yolları: Var",
+             "Dikme Yükseklikleri: 260cm,280cm,300cm",
+             "Elektrostatik Boya: Var",
+             "Şarj Edilebilir Redresör: Harici",
+             "Akü Değişimi: Var",
+             "Akü Gücü: 120 A Traksiyoner",
+             "Dış Kaporta: Metal"
+
+             ]
+          } 
+
+
+    },
+    {   
+        "id": 3,
+        "category" : "Mobil Streçleme Makineleri",
+        "productName" : "Focus DC Çift Motorolu Öngermeli Streçelme Makinesi",
+        "featuredImage" : "/products/srd.png",
+        "images" : ["/products/smt.png", "/products/srd.png"],
+        "details": 
+            { "spot" : "Dünyada sadece Odaksan Mühendislik A.Ş. tarafından üretilen yüksek performanslı ve dayanıklı DC servo motorlu mobil palet streçleme robotları. 7'' büyük dokunmatik ekranı ve reçete kaydetme özelliğiyle kullanım kolaylığı. İki farklı öngerme seçeneği.",
+             "detailList" : [ "Motor Tipi: Servo",
+             "Öngerme Teknolojisi: Çift Motor",
+             "Öngerme Oranı: %200-%500 Ayarlanabilir.",
+             "Dokunmatik Panel: 7''",
+             "Kontrol Ünitesi: PLC",
+             "Her Motor İçin Ayrı Sürücü: Var",
+             "Program Kısa Yolları: Var",
+             "Dikme Yükseklikleri: 260cm,280cm,300cm",
+             "Elektrostatik Boya: Var",
+             "Şarj Edilebilir Redresör: Harici",
+             "Akü Değişimi: Var",
+             "Akü Gücü: 120 A Traksiyoner",
+             "Dış Kaporta: Metal"
+
+             ]
+          } 
+
+
+    },
+    {   
+        "id": 4,
+        "category" : "Mobil Streçleme Makineleri",
+        "productName" : "Focus DC Tek Motorolu Öngermeli Streçelme Makinesi",
+        "featuredImage" : "/products/srd.png",
+        "images" : ["/products/smt.png", "/products/srd.png"],
+        "details": 
+            { "spot" : "Dünyada sadece Odaksan Mühendislik A.Ş. tarafından üretilen yüksek performanslı ve dayanıklı DC servo motorlu mobil palet streçleme robotları. 7'' büyük dokunmatik ekranı ve reçete kaydetme özelliğiyle kullanım kolaylığı. İki farklı öngerme seçeneği.",
+             "detailList" : [ "Motor Tipi: Servo",
+             "Öngerme Teknolojisi: Çift Motor",
+             "Öngerme Oranı: %200-%500 Ayarlanabilir.",
+             "Dokunmatik Panel: 7''",
+             "Kontrol Ünitesi: PLC",
+             "Her Motor İçin Ayrı Sürücü: Var",
+             "Program Kısa Yolları: Var",
+             "Dikme Yükseklikleri: 260cm,280cm,300cm",
+             "Elektrostatik Boya: Var",
+             "Şarj Edilebilir Redresör: Harici",
+             "Akü Değişimi: Var",
+             "Akü Gücü: 120 A Traksiyoner",
+             "Dış Kaporta: Metal"
+
+             ]
+          } 
+
+
+    },
+    {   
+        "id": 4,
+        "category" : "Mobil Streçleme Makineleri",
+        "productName" : "Focus DC Tek Motorolu Öngermeli Streçelme Makinesi",
+        "featuredImage" : "/products/srd.png",
+        "images" : ["/products/smt.png", "/products/srd.png"],
+        "details": 
+            { "spot" : "Dünyada sadece Odaksan Mühendislik A.Ş. tarafından üretilen yüksek performanslı ve dayanıklı DC servo motorlu mobil palet streçleme robotları. 7'' büyük dokunmatik ekranı ve reçete kaydetme özelliğiyle kullanım kolaylığı. İki farklı öngerme seçeneği.",
+             "detailList" : [ "Motor Tipi: Servo",
+             "Öngerme Teknolojisi: Çift Motor",
+             "Öngerme Oranı: %200-%500 Ayarlanabilir.",
+             "Dokunmatik Panel: 7''",
+             "Kontrol Ünitesi: PLC",
+             "Her Motor İçin Ayrı Sürücü: Var",
+             "Program Kısa Yolları: Var",
+             "Dikme Yükseklikleri: 260cm,280cm,300cm",
+             "Elektrostatik Boya: Var",
+             "Şarj Edilebilir Redresör: Harici",
+             "Akü Değişimi: Var",
+             "Akü Gücü: 120 A Traksiyoner",
+             "Dış Kaporta: Metal"
+
+             ]
+          } 
+
+
+    },
+    {   
+        "id": 4,
+        "category" : "Mobil Streçleme Makineleri",
+        "productName" : "Focus DC Tek Motorolu Öngermeli Streçelme Makinesi",
+        "featuredImage" : "/products/srd.png",
+        "images" : ["/products/smt.png", "/products/srd.png"],
+        "details": 
+            { "spot" : "Dünyada sadece Odaksan Mühendislik A.Ş. tarafından üretilen yüksek performanslı ve dayanıklı DC servo motorlu mobil palet streçleme robotları. 7'' büyük dokunmatik ekranı ve reçete kaydetme özelliğiyle kullanım kolaylığı. İki farklı öngerme seçeneği.",
+             "detailList" : [ "Motor Tipi: Servo",
+             "Öngerme Teknolojisi: Çift Motor",
+             "Öngerme Oranı: %200-%500 Ayarlanabilir.",
+             "Dokunmatik Panel: 7''",
+             "Kontrol Ünitesi: PLC",
+             "Her Motor İçin Ayrı Sürücü: Var",
+             "Program Kısa Yolları: Var",
+             "Dikme Yükseklikleri: 260cm,280cm,300cm",
+             "Elektrostatik Boya: Var",
+             "Şarj Edilebilir Redresör: Harici",
+             "Akü Değişimi: Var",
+             "Akü Gücü: 120 A Traksiyoner",
+             "Dış Kaporta: Metal"
+
+             ]
+          } 
+
+
+    },
+    {   
+        "id": 4,
+        "category" : "Mobil Streçleme Makineleri",
+        "productName" : "Focus DC Tek Motorolu Öngermeli Streçelme Makinesi",
+        "featuredImage" : "/products/srd.png",
+        "images" : ["/products/smt.png", "/products/srd.png"],
+        "details": 
+            { "spot" : "Dünyada sadece Odaksan Mühendislik A.Ş. tarafından üretilen yüksek performanslı ve dayanıklı DC servo motorlu mobil palet streçleme robotları. 7'' büyük dokunmatik ekranı ve reçete kaydetme özelliğiyle kullanım kolaylığı. İki farklı öngerme seçeneği.",
+             "detailList" : [ "Motor Tipi: Servo",
+             "Öngerme Teknolojisi: Çift Motor",
+             "Öngerme Oranı: %200-%500 Ayarlanabilir.",
+             "Dokunmatik Panel: 7''",
+             "Kontrol Ünitesi: PLC",
+             "Her Motor İçin Ayrı Sürücü: Var",
+             "Program Kısa Yolları: Var",
+             "Dikme Yükseklikleri: 260cm,280cm,300cm",
+             "Elektrostatik Boya: Var",
+             "Şarj Edilebilir Redresör: Harici",
+             "Akü Değişimi: Var",
+             "Akü Gücü: 120 A Traksiyoner",
+             "Dış Kaporta: Metal"
+
+             ]
+          } 
+
+
+    }
+]

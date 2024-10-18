@@ -6,6 +6,7 @@ import Slider from './Slider'
 import Belt from './Belt'
 import MainProducts from './MainProducts'
 import Banner from './_atoms/Banner'
+import ProductCardSlider from './ProductCardSlider'
 
 const MainPage = () => {
   return (
@@ -20,6 +21,7 @@ const MainPage = () => {
         <MainProducts/>
       </div>
       <div><Banner/></div>
+      <div className='md:mx-40'><ProductCardSlider/></div>
     </div>
   )
 }
