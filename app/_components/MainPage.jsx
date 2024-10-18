@@ -21,7 +21,7 @@ const MainPage = () => {
         <MainProducts/>
       </div>
       <div><Banner/></div>
-      <div className='md:mx-40'><ProductCardSlider/></div>
+      <div className='md:mx-40 my-8'><ProductCardSlider/></div>
     </div>
   )
 }
