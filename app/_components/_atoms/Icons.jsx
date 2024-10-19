@@ -84,23 +84,18 @@ export const HomeIcon = () => (
     </svg>
   );
 
-  export const Arrow = ({flipped}) => (
-    <svg
-    className={`w-6 h-10 fill-black stroke-white ${flipped ? 'transform scale-x-[-1]' : ''}`}
-  viewBox="0 0 18 24"
-  xmlns="http://www.w3.org/2000/svg"
-  strokeWidth="2"
-  strokeLinecap="round"
-  strokeLinejoin="round"
->
-  <g strokeWidth="0"></g>
-  <g strokeLinecap="round" strokeLinejoin="round"></g>
-  <g>
-    <path
-      d="M17,12,5,21V3Z"
-      className="fill-none"
-    />
-  </g>
-</svg>
+  export const Arrow = (props) => {
+    const { className, style, onClick } = props;
+  
+    return (
+      <div className={className} style={{...style, display: "block", background: "black", borderRadius: "100%", scale: "2", zIndex: "1", position: "absolute" }} onClick={onClick}/>
+    )
+  }
 
-  )
+  export const MainArrow = (props) => {
+    const { className, style, onClick } = props;
+  
+    return (
+      <div className={className} style={{...style, display: "block", background: "black", borderRadius: "100%", scale: "2", zIndex: "1", position: "absolute", margin: "3%" }} onClick={onClick}/>
+    )
+  }

@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "referenceName": "balta"
+
+    },
+    {
+        "id": 2,
+        "referenceName": "besler"
+
+    },
+    {
+        "id": 3,
+        "referenceName": "bim"
+
+    },
+    {
+        "id": 4,
+        "referenceName": "migros"
+
+    },
+    {
+        "id": 5,
+        "referenceName": "dogus"
+
+    },
+    {
+        "id": 6,
+        "referenceName": "goral"
+
+    },
+    {
+        "id": 7,
+        "referenceName": "karaca"
+
+    },
+    {
+        "id": 8,
+        "referenceName": "kervan"
+
+    },
+    {
+        "id": 9,
+        "referenceName": "kipas"
+
+    },
+    {
+        "id": 10,
+        "referenceName": "merinos"
+
+    },
+    {
+        "id": 11,
+        "referenceName": "pulver"
+
+    },
+    {
+        "id": 12,
+        "referenceName": "rudolf"
+
+    },
+    {
+        "id": 13,
+        "referenceName": "sanat_ambalaj"
+
+    },
+    {
+        "id": 14,
+        "referenceName": "sanko"
+
+    },
+    {
+        "id": 15,
+        "referenceName": "sasa"
+
+    },
+    {
+        "id": 16,
+        "referenceName": "seramiksan"
+
+    },
+    {
+        "id": 17,
+        "referenceName": "sleepy"
+
+    },
+    {
+        "id": 18,
+        "referenceName": "sonoco"
+
+    },
+    {
+        "id": 19,
+        "referenceName": "swiss-grow"
+
+    },
+    {
+        "id": 20,
+        "referenceName": "texhong"
+
+    },
+    {
+        "id": 21,
+        "referenceName": "sok"
+
+    }
+]

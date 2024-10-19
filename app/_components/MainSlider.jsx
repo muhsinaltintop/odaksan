@@ -1,22 +1,19 @@
+
 "use client"
 import React from 'react'
 import Slider from 'react-slick';
-import ProductCard from './_atoms/ProductCard';
-import products from '../../public/_mocks_/products.json'
-import { Arrow } from './_atoms/Icons';
+import SingleSlide from './_atoms/SingleSlide';
+import { MainArrow } from './_atoms/Icons';
 
-
-
-const ProductCardSlider = () => {
-  var settings = {
+const MainSlider = () => {
+  const settings = {
     dots: true,
     infinite: true,
     speed: 500,
-    slidesToShow: 3,
+    slidesToShow: 1,
     slidesToScroll: 1,
-    initialSlide: 0,
-    nextArrow:  <Arrow style={{ right: "50px" }} />,
-    prevArrow: <Arrow style={{ left: "50px" }} />,
+    nextArrow:  <MainArrow/>,
+    prevArrow: <MainArrow />,
 
     responsive: [
       {
@@ -47,20 +44,20 @@ const ProductCardSlider = () => {
     ]
   };
   return (
-    <div className="slider-container" style={{position: "relative"}}>
+    <div className="slider-container">
       <Slider {...settings}>
-        {products.map((product)=> {
-          return(
-            <div key={product.id}>
-
-            <ProductCard product={product}/>
-            </div>
-          )
-        })}
-
+        <div>
+          <SingleSlide/>
+        </div>
+        <div>
+          <SingleSlide/>
+        </div>
+        <div>
+          <SingleSlide/>
+        </div>
       </Slider>
     </div>
   );
 }
 
-export default ProductCardSlider
+export default MainSlider
