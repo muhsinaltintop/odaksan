@@ -4,6 +4,7 @@ import "./globals.css";
 import Announcement from "./_components/_atoms/Announcement";
 import ContactLine from "./_components/ContactLine";
 import Header from "./_components/Header";
+import Footer from './_components/Footer';
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -56,6 +57,7 @@ export default function RootLayout({ children }) {
         <div><Header/></div>
         {children}
         <SpeedInsights />
+        <div><Footer/></div>
       </body>
     </html>
   );

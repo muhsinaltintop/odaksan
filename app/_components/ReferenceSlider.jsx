@@ -39,7 +39,7 @@ const ReferenceSlider = () => {
                 )
             } )}
           </Slider>
-          <div className='text-left text-lg mt-10 md:text-2xl md:text-right md:mr-20'>Bizi Tercih Ettikleri Teşekkür Ederiz...</div>
+          <div className='text-left text-primary text-lg mt-10 md:text-2xl md:text-right md:mr-20'>Bizi Tercih Ettikleri Teşekkür Ederiz...</div>
         </div>
       );
     }

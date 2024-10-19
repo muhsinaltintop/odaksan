@@ -20,7 +20,7 @@ const MainPage = () => {
       </div>
       <div><Banner/></div>
       <div className='md:mx-40 my-8'><ProductCardSlider/></div>
-      <div className='w-screen pb-10 my-20'><ReferenceSlider/></div>
+      <div className='pb-10 my-20'><ReferenceSlider/></div>
     </div>
   )
 }
