@@ -6,6 +6,8 @@ import Banner from './_atoms/Banner'
 import ProductCardSlider from './ProductCardSlider'
 import ReferenceSlider from './ReferenceSlider'
 import CustomerComments from './CustomerComments'
+import CompanyNumbers from './CompanyNumbers'
+import BlogCollection from './BlogCollection'
 
 const MainPage = () => {
   return (
@@ -23,6 +25,8 @@ const MainPage = () => {
       <div className='md:mx-40 my-8'><ProductCardSlider/></div>
       <div className='pb-10 mt-20'><ReferenceSlider/></div>
       <div className='md:px-4 my-5'><CustomerComments/></div>
+      <div className='bg-slate-200 mt-10'><CompanyNumbers/></div>
+      <div><BlogCollection/></div>
     </div>
   )
 }

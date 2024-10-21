@@ -96,19 +96,19 @@ const CustomerComments = () => {
                             allowFullScreen></iframe>
                     </div>
                     <div className='p-2'>
-                    <iframe width="100%" height="auto" style={{ aspectRatio: '16/9' }}src="https://www.youtube.com/embed/8S1TimKID3s" title="“Her Streç Sarımı Yapan Firmanın Alması Gereken Bir Makine” | PAKTEN SAĞLIK ÜRÜNLERİ A.Ş" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe width="100%" height="auto" style={{ aspectRatio: '16/9' }}src="https://www.youtube.com/embed/8S1TimKID3s" title="“Her Streç Sarımı Yapan Firmanın Alması Gereken Bir Makine” | PAKTEN SAĞLIK ÜRÜNLERİ A.Ş" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
                     </div>
                     <div className='p-2'>
-                    <iframe width="100%" height="auto" style={{ aspectRatio: '16/9' }}src="https://www.youtube.com/embed/ARkRZKONPxU" title="Streç Sarım Makinelerinde Tercihimiz Odaksan Mühendislik | Bordokim Boya San." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe width="100%" height="auto" style={{ aspectRatio: '16/9' }}src="https://www.youtube.com/embed/ARkRZKONPxU" title="Streç Sarım Makinelerinde Tercihimiz Odaksan Mühendislik | Bordokim Boya San." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
                     </div>
                     <div className='p-2'>
-                    <iframe width="100%" height="auto" style={{ aspectRatio: '16/9' }}src="https://www.youtube.com/embed/Uz812r9x6sk" title="“İtalyan Makinalarda Servis Konusunda Büyük Sıkıntılar Yaşanıyordu” | İskon Plastik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe width="100%" height="auto" style={{ aspectRatio: '16/9' }}src="https://www.youtube.com/embed/Uz812r9x6sk" title="“İtalyan Makinalarda Servis Konusunda Büyük Sıkıntılar Yaşanıyordu” | İskon Plastik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
                     </div>
                     <div className='p-2'>
-                    <iframe width="100%" height="auto" style={{ aspectRatio: '16/9' }}src="https://www.youtube.com/embed/N1hPEQvsJPc" title="“Odaksan Mühendislik Streçleme Makineleri Hem Ucuz Hem De Streç Sarfiyatı Çok Az” | KİMBCF" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe width="100%" height="auto" style={{ aspectRatio: '16/9' }}src="https://www.youtube.com/embed/N1hPEQvsJPc" title="“Odaksan Mühendislik Streçleme Makineleri Hem Ucuz Hem De Streç Sarfiyatı Çok Az” | KİMBCF" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
                     </div>
                 </Slider>
             </div>
