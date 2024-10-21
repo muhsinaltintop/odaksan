@@ -8,7 +8,7 @@ const SingleBlogCollection = () => {
         </div>
         <div>21-10-2024</div>
         <h2>Streç Makinesinin Faydaları</h2>
-        <p>Streç makineleri, %75'e kadar streç tasarrufu sağlar. </p>
+        <p>Streç makineleri, %75&apos;e kadar streç tasarrufu sağlar. </p>
         <div>Devamı {">"}</div>
     </div>
   )
