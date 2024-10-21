@@ -5,6 +5,7 @@ import MainProducts from './MainProducts'
 import Banner from './_atoms/Banner'
 import ProductCardSlider from './ProductCardSlider'
 import ReferenceSlider from './ReferenceSlider'
+import CustomerComments from './CustomerComments'
 
 const MainPage = () => {
   return (
@@ -20,7 +21,8 @@ const MainPage = () => {
       </div>
       <div><Banner/></div>
       <div className='md:mx-40 my-8'><ProductCardSlider/></div>
-      <div className='pb-10 my-20'><ReferenceSlider/></div>
+      <div className='pb-10 mt-20'><ReferenceSlider/></div>
+      <div className='md:px-4 my-5'><CustomerComments/></div>
     </div>
   )
 }
