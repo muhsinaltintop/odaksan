@@ -8,6 +8,8 @@ import ReferenceSlider from './ReferenceSlider'
 import CustomerComments from './CustomerComments'
 import CompanyNumbers from './CompanyNumbers'
 import BlogCollection from './BlogCollection'
+import StrecMakinesiVideoları from './StrecMakinesiVideoları'
+import TurkeyMap from './TurkeyMap'
 
 const MainPage = () => {
   return (
@@ -27,6 +29,8 @@ const MainPage = () => {
       <div className='md:px-4 my-5'><CustomerComments/></div>
       <div className='bg-slate-200 mt-10'><CompanyNumbers/></div>
       <div><BlogCollection/></div>
+      <div className='md:px-4 my-5 mb-10'><StrecMakinesiVideoları/></div>
+      <div className='pt-20 bg-primary'><TurkeyMap/></div>
     </div>
   )
 }
