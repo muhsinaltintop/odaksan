@@ -1,0 +1,38 @@
+[
+{"id" : 1,
+"type" : "strecleme",
+"title": "Focus Mobil Streçleme Makineleri",
+"model": "focus",
+"category": "mobil"
+},
+{"id" : 2,
+"type" : "strecleme",
+"title": "Focus Tablalı Streçleme Makineleri",
+"model": "focus",
+"category": "tablalı"
+},
+{"id" : 3,
+"type" : "strecleme",
+"title": "Spider Mobil Streçleme Makineleri",
+"model": "spider",
+"category": "mobil"
+},
+{"id" : 4,
+"type" : "strecleme",
+"title": "Spider Tablalı Streçleme Makineleri",
+"model": "spider",
+"category": "tablalı"
+},
+{"id" : 5,
+"type" : "strecleme",
+"title": "Rapid Mobil Streçleme Makineleri",
+"model": "rapid",
+"category": "mobil"
+},
+{"id" : 6,
+"type" : "strecleme",
+"title": "Rapid Tablalı Streçleme Makineleri",
+"model": "rapid",
+"category": "tablalı"
+}
+]

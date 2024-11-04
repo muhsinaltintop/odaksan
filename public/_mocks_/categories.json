@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 1,
+        "categoryName" : "Streçleme Makineleri", 
+        "image" : "/products/strecMakineleri.png",
+        "slug"  : "/strecleme-makineleri"
+    },
+    {
+        "id" : 2,
+        "categoryName" : "Koli Bantlama Makineleri", 
+        "image" : "/products/koli-bantlama.png",
+        "slug"  : "/koli-bantlama-makineleri"
+    },
+    {
+        "id" : 3,
+        "categoryName" : "Çemberleme Makineleri", 
+        "image" : "/products/cemberleme.png",
+        "slug"  : "/cemberleme-makineleri"
+    },
+    {
+        "id" : 4,
+        "categoryName" : "Streç Film", 
+        "image" : "/products/strec-film.png",
+        "slug"  : "/strec-film"
+    }
+
+]

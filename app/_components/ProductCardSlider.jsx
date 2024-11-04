@@ -58,6 +58,7 @@ const ProductCardSlider = () => {
   };
   return (
     <div className="slider-container" style={{position: "relative"}}>
+      <div className='text-2xl font-bold text-center'>Ürünler</div>
       <Slider {...settings}>
         {products.map((product)=> {
           return(
