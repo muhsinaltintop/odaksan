@@ -3,7 +3,10 @@ import ProductList from '../_components/ProductList'
 
 const urunler = () => {
   return (
-    <div><ProductList/></div>
+    <div>
+      <div><ProductList type="strecleme"/></div>
+      <div><ProductList type="cemberleme"/></div>
+    </div>
   )
 }
 

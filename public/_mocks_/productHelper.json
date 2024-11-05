@@ -34,5 +34,17 @@
 "title": "Rapid Tablalı Streçleme Makineleri",
 "model": "rapid",
 "category": "tablalı"
+},
+{"id" : 7,
+"type" : "cemberleme",
+"title": "Odaksan Çemberleme Makinesi",
+"model": "loop",
+"category": "otomatik"
+},
+{"id" : 8,
+"type" : "cemberleme",
+"title": "Odaksan Manuel Çemberleme Makinesi",
+"model": "loop-manuel",
+"category": "manuel"
 }
 ]
