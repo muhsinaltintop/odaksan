@@ -4,7 +4,7 @@ import ProductRenderer from '../_components/ProductRenderer'
 
 const ProductList = ({type}) => {
   return (
-    <div>{
+    <div id={type}>{
         productHelper.map((category)=> {
            return (category.type === type ?
           (<div key={category.id} className='mt-4 mx-20'>

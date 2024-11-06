@@ -3,19 +3,19 @@
         "id" : 1,
         "categoryName" : "Streçleme Makineleri", 
         "image" : "/products/strecMakineleri.png",
-        "slug"  : "/strecleme-makineleri"
+        "slug"  : "/urunler#strecleme"
     },
     {
         "id" : 2,
         "categoryName" : "Koli Bantlama Makineleri", 
         "image" : "/products/koli-bantlama.png",
-        "slug"  : "/koli-bantlama-makineleri"
+        "slug"  : "/urunler#koli-bantlama"
     },
     {
         "id" : 3,
         "categoryName" : "Çemberleme Makineleri", 
         "image" : "/products/cemberleme.png",
-        "slug"  : "/cemberleme-makineleri"
+        "slug"  : "/urunler#cemberleme"
     },
     {
         "id" : 4,

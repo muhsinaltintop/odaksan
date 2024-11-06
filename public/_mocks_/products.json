@@ -488,8 +488,34 @@
         "model": "loop",
         "category" : "Otomatik Çemberleme Makinesi",
         "slug" : "loop-cemberleme-makinesi",
-        "productName" : "Loop Otomatik Çemberleme Makinesi",
+        "productName" : "Odaksan Loop Otomatik Çemberleme Makinesi",
         "featuredImage" : "/products/cemberleme.png",
+        "images" : ["/products/smt.png", "/products/srd.png"],
+        "details": 
+            { "spot" : "AC motorlu, sabit tablalı palet streçleme makinesi. LCD Ekran. Mekanik germe ünitesiyle %0-250 streç germe özelliği.",
+             "detailList" : [ "Motor Tipi: AC",
+             "Germe Teknolojisi: Mekanik",
+             "Öngerme Oranı: %0-250 Sabit.",
+             "Dokunmatik Panel: Yok-LCD Panel",
+             "Kontrol Ünitesi: PLC",
+             "Her Motor İçin Ayrı Sürücü: Var",
+             "Program Kısa Yolları: Var",
+             "Dikme Yükseklikleri: 260cm, 280cm, 300cm",
+             "Elektrostatik Boya: Var",
+             "Dış Kaporta: Metal"
+             ]
+          } 
+
+
+    },
+    {   
+        "id": 19,
+        "type": "cemberleme",
+        "model": "loop-manuel",
+        "category" : "Manuel Çemberleme Makinesi",
+        "slug" : "loop-cemberleme-makinesi",
+        "productName" : "Odaksan Loop Manuel Otomatik Çemberleme Makinesi",
+        "featuredImage" : "/products/manuel-cemberleme.png",
         "images" : ["/products/smt.png", "/products/srd.png"],
         "details": 
             { "spot" : "AC motorlu, sabit tablalı palet streçleme makinesi. LCD Ekran. Mekanik germe ünitesiyle %0-250 streç germe özelliği.",
