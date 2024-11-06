@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Streç Makinesi Tipleri",
+        "content" : [
+            "Streç sarma makinelerinde streçlenecek yükün durumuna göre iki çeşit sarım vardır:",
+            "Streç makinesi sabit durur, yük döner.",
+            "Yük sabit durur streç makinesi döner.",
+            "Bu durumların ayrıntılı olarak analiz edilmesi, yatırımın doğru ve verimli yapılması için en önemli etkendir.",
+            "Akülü Streç Makinesi‘nin Avantaj ve Dezavantajları",
+            "Avantajları :",
+            "Yük sabit olup, cihaz yükün etrafında döndüğü için, yük ne kadar çok parçalı ve hafif olursa olsun yükün dizilme formasyonu bozulmadan streçle kaplanabilir.",
+            "Yüke gidebilme kabiliyeti ile ilave forklift işçiliğinin önüne geçer.",
+            "Paketleme bölümündeki işçiden tasarruf sağlar.",
+            "En önemli konu bu makinelerdeki streç ön germe üniteleridir. Tek motorda %300, çift motorda %400 ön germe yapılabilmektedir. Öngerme oranındaki %20’lik tasarruf farkının yanında, iki sistem arasında öngermenin ayarlanabilir olması gibi çok önemli bir özellik farkı da vardır.",
+            "Çift motorlu sistemlerde %100 ile %400 arasında istenilen oranlarda ön germe yapılabilmesi düşük kalite de ve doğru kalınlıkta olmayan streçlerle de çalışmayı mümkün kılar",
+            "PLC kontrollü ve 7” dokunmatik ekran sayesinde kullanım kolaylığı yanında arıza riski minimize edilmiştir."
+        ],
+        "image": "/blog/blog-1.png",
+        "keywords": ["strec makinesi", "strecleme", "strec tasarrufu" ]
+    },
+    {
+        "id": 2,
+        "title": "Odaksan Streç Sarma Makineleri %75 Tasarruf Sağlıyor",
+        "content": [
+            "Odaksan Tablalı Streç Sarma Makineleri ve Streç Sarma Robotları amortisman süresi düşük makinelerdir. Focus Serisi Streç Sarma Robotları ve Tablalı Streç Sarma Makineleri çift motorlu ön gerdirme ünitesiyle yüzde 75’e varan streç tasarrufu sağlar. Böylece çok kısa zamanda makineye ya da robota yapmış olduğunuz yatırımı geri kazanırsınız.",
+            "Örnek: Ön gerdirmesiz bir makine her palete 1,3 kg streç sarf eder. Superpower strecin kilosu piyasada 2$+KDV civarındadır. Günde ortalama 30 adet palet streçleyen bir firma:",
+            "30 X 1,3kg X 2.4$=93,6$ günlük streç masrafı yapacaktır.",
+            "Eğer fabrika haftada 6 gün çalışıyorsa 561,6$; 7 gün çalışıyorsa 655,2$ haftalık strece harcayacak demektir.",
+            "Haftada 6 gün çalışan bir fabrikanın yıllık (561,6*52) 29.203$;",
+            "Haftada 7 gün çalışan bir fabrikanın yıllık (655,3*52) 34.070$ streç maliyeti çıkar.",
+            "Çift motorlu öngerdirme üniteleriyle Focus Tablalı Streç Sarma Makineleri ve Focus Streç Sarma Robotları’nı kullanan, günde 30 palet streçleyen bir firma, çalıştığı gün sayısına göre 14.600$ ile 23.850$ arasında streçten tasarruf etmektedir."
+        ],
+        "image": "/blog/blog-1.png",
+        "keywords": ["strec maliyet", "strecleme", "strec tasarrufu" ]
+    }
+]

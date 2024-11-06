@@ -7,8 +7,7 @@ const Breadcrum = () => {
     const pathName = usePathname();  
   return (
     <div>      
-      {console.log("pN:", pathName)}
-      <nav aria-label="Breadcrumb">
+       <nav aria-label="Breadcrumb">
         <ol className="flex items-center gap-1 text-sm text-gray-600">
           <li>
             <Link href="/" className="block transition hover:text-gray-700">
@@ -66,7 +65,7 @@ const Breadcrum = () => {
           </li>
       
           <li>
-            <Link href="#" className="block transition hover:text-gray-700"> {pathName === "/hizmetler" ? "Hizmetler" : pathName === "/kurumsal" ? "Kurumsal" : pathName === "/referanslar" ? "Referanslar" : pathName === "/yorumlar" ? "Yorumlar" : "" } </Link>
+            <Link href="#" className="block transition hover:text-gray-700"> {pathName === "/hizmetler" ? "Hizmetler" : pathName === "/kurumsal" ? "Kurumsal" : pathName === "/referanslar" ? "Referanslar" : pathName === "/yorumlar" ? "Yorumlar" :pathName === "/blog" ? "Blog Yazıları" : "" } </Link>
           </li>
         </ol>
       </nav></div>
