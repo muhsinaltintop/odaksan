@@ -1,9 +1,13 @@
+"use client"
 import Link from 'next/link'
 import React from 'react'
+import { usePathname } from 'next/navigation'
 
 const Breadcrum = () => {
+    const pathName = usePathname();  
   return (
     <div>      
+      {console.log("pN:", pathName)}
       <nav aria-label="Breadcrumb">
         <ol className="flex items-center gap-1 text-sm text-gray-600">
           <li>
@@ -62,7 +66,7 @@ const Breadcrum = () => {
           </li>
       
           <li>
-            <Link href="#" className="block transition hover:text-gray-700"> Mobil Streç Makinası </Link>
+            <Link href="#" className="block transition hover:text-gray-700"> {pathName === "/hizmetler" ? "Hizmetler" : "" } </Link>
           </li>
         </ol>
       </nav></div>
