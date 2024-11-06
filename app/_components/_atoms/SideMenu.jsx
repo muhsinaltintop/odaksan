@@ -9,7 +9,7 @@ const SideMenu = ({ onMenuClick, variation }) => {
     <>
       {!isOpen && (
         <button
-          className="fixed top-0 left-0 p-4 focus:outline-none z-50 md:hidden mt-16"
+          className="fixed bottom-0 left-0 p-4 focus:outline-none z-50 md:hidden"
           onClick={() => setIsOpen(true)}
         >
           <svg
@@ -36,7 +36,7 @@ const SideMenu = ({ onMenuClick, variation }) => {
         <div className="flex flex-col h-full">
           {isOpen && (
             <button
-              className="absolute top-0 right-0 mt-4 mr-4 focus:outline-none md:hidden"
+              className="absolute bottom-0 right-0 mb-4 mr-4 focus:outline-none md:hidden"
               onClick={() => setIsOpen(false)}
             >
               <svg
@@ -58,18 +58,14 @@ const SideMenu = ({ onMenuClick, variation }) => {
           <div className="px-4 py-6">
             {variation === "about" ? 
             (<div>          
-            <span className="grid h-10 w-32 place-content-center rounded-lg bg-gray-100 text-xs text-gray-600">
+            <span className="grid h-10 w-32 place-content-center rounded-lg text-xs text-gray-600 ml-2">
               <Image
-                src="/logoSquare.png"
+                src="/logo.svg"
                 width={200}
                 height={200}
                 alt="RoboSpace Logo"
               />
             </span>
-            <span className="text-sm text-primary font-bold mt-1">
-              Bir Odaksan A.Ş. Kuruluşudur.
-            </span>
-
             <ul className="mt-6 space-y-1">
               <li>
                 <button
