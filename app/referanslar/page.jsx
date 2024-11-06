@@ -12,7 +12,6 @@ const Page = () => {
             <div className="text-center font-bold text-xl md:text-2xl text-primary mt-6 md:mt-10">
                 Referanslarımız
             </div>
-            {/* Responsive grid: 1 column on small screens, 2 on medium, 4 on large */}
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mt-6">
                 {references.map((reference) => (
                     <div key={reference.id} className="flex justify-center">

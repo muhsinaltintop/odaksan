@@ -66,7 +66,7 @@ const Breadcrum = () => {
           </li>
       
           <li>
-            <Link href="#" className="block transition hover:text-gray-700"> {pathName === "/hizmetler" ? "Hizmetler" : pathName === "/kurumsal" ? "Kurumsal" : pathName === "/referanslar" ? "Referanslar" : "" } </Link>
+            <Link href="#" className="block transition hover:text-gray-700"> {pathName === "/hizmetler" ? "Hizmetler" : pathName === "/kurumsal" ? "Kurumsal" : pathName === "/referanslar" ? "Referanslar" : pathName === "/yorumlar" ? "Yorumlar" : "" } </Link>
           </li>
         </ol>
       </nav></div>

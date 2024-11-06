@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "videoLink": "https://www.youtube.com/embed/-nchn5p441c",
+        "youtubeTitle": "Odaksan Makineleri İle Nakliye Esnasında Yaşanan Problemleri Minimize Ettik",
+        "title" : "Yücel Gür",
+        "subtitle" : "Kara Holding İşletme Müdürü"    
+    },
+    {
+        "id": 2,
+        "videoLink": "https://www.youtube.com/embed/lLUTLcYPceg",
+        "youtubeTitle": "Önce Paletlerimiz Yolda Devriliyordu Şimdi ise Öyle bir Sorunumuz Kalmadı",
+        "title" : "Mustafa Karadağ",
+        "subtitle" : "Tüter Plastik San. Üretim Müdürü"    
+    },
+    {
+        "id": 3,
+        "videoLink": "https://www.youtube.com/embed/fAkAWw7RXns",
+        "youtubeTitle": "Odaksan Mühendislik Firması İle Akü Ve Kart Sorunumuz Ortadan Kalktı | KULE TEKSTİL",
+        "title" : "Alaadin Gül",
+        "subtitle" : "Kule Tekstil Yönetim Kurulu Üyesi"    
+    },
+    {
+        "id": 4,
+        "videoLink": "https://www.youtube.com/embed/uF_xh4o3Wvo",
+        "youtubeTitle": "Odaksan Streç Sarım Makineleri Hem Kasa Olarak Hem De Elektronik Olarak Sağlam Makine | HIEN YAĞLARI",
+        "title" : "Halil İbrahim Uzun",
+        "subtitle" : "HIEN Yağları A.Ş. Genel Müdürü"    
+    },
+    {
+        "id": 5,
+        "videoLink": "https://www.youtube.com/embed/8S1TimKID3s",
+        "youtubeTitle": "“Her Streç Sarımı Yapan Firmanın Alması Gereken Bir Makine” | PAKTEN SAĞLIK ÜRÜNLERİ A.Ş",
+        "title" : "Aydın Kaleoğlu",
+        "subtitle" : "Pakten Sağlık Ürünleri A.Ş. Yatırım Projeleri Müdürü"    
+    },
+    {
+        "id": 6,
+        "videoLink": "https://www.youtube.com/embed/ARkRZKONPxU",
+        "youtubeTitle": "Streç Sarım Makinelerinde Tercihimiz Odaksan Mühendislik | Bordokim Boya San.",
+        "title" : "Hayri Kahraman",
+        "subtitle" : "Bordokim Boya San. Genel Müdürü"    
+    },
+    {
+        "id": 7,
+        "videoLink": "https://www.youtube.com/embed/Uz812r9x6sk",
+        "youtubeTitle": "“İtalyan Makinalarda Servis Konusunda Büyük Sıkıntılar Yaşanıyordu” | İskon Plastik",
+        "title" : "Nuri Koşar",
+        "subtitle" : "İskon Plastik Yönetim Kurulu Başkanı"    
+    },
+    {
+        "id": 8,
+        "videoLink": "https://www.youtube.com/embed/N1hPEQvsJPc",
+        "youtubeTitle": "“Odaksan Mühendislik Streçleme Makineleri Hem Ucuz Hem De Streç Sarfiyatı Çok Az” | KİMBCF",
+        "title" : "Hakan Kelebek",
+        "subtitle" : "KİMBCF Fabrika Müdürü"    
+    },
+    {
+        "id": 9,
+        "videoLink": "https://www.youtube.com/embed/s5VpvpgksTE",
+        "youtubeTitle": "“Odaksan Streç Sarım Makinelerinin şarjı diğerlerine göre daha uzun gidiyor” | DOST KARDEŞLER A.Ş.",
+        "title" : "Ömer Kahraman",
+        "subtitle" : "Dost Kardeşler İplik İşletme Genel Müdürü"
+    }
+
+    
+]
