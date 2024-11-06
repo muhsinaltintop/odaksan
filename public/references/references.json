@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "imageName": "balta",
+        "companyName" : "Balta"
+    },
+    {
+        "id": 2,
+        "imageName": "besler",
+        "companyName" : "Beşler"
+    },
+    {
+        "id": 3,
+        "imageName": "bim"
+,        "companyName" : "BİM"
+    },
+    {
+        "id": 4,
+        "imageName": "dogus",
+        "companyName" : "Doğuş Çay"
+    },
+    {
+        "id": 5,
+        "imageName": "goral",
+        "companyName" : "Göral"
+    },
+    {
+        "id": 6,
+        "imageName": "karaca",
+        "companyName" : "Karaca"
+    },
+    {
+        "id": 7,
+        "imageName": "Kervan",
+        "companyName" : "Kervan"
+    },
+    {
+        "id": 8,
+        "imageName": "kipas",
+        "companyName" : "Kipaş Holding"
+    },
+    {
+        "id": 9,
+        "imageName": "merinos",
+        "companyName" : "Merinos"
+    },
+    {
+        "id": 10,
+        "imageName": "migros",
+        "companyName" : "Migros"
+    },
+    {
+        "id": 11,
+        "imageName": "pulver",
+        "companyName" : "Pulver"
+    },
+    {
+        "id": 12,
+        "imageName": "rudolf",
+        "companyName" : "Rudolf"
+    },
+    {
+        "id": 13,
+        "imageName": "sanat_ambalaj",
+        "companyName" : "Sanat Ambalaj"
+    },
+    {
+        "id": 14,
+        "imageName": "sanko",
+        "companyName" : "SANKO"
+    },
+    {
+        "id": 15,
+        "imageName": "sasa",
+        "companyName" : "SASA Polyester"
+    },
+    {
+        "id": 16,
+        "imageName": "Seramiksan",
+        "companyName" : "Seramiksan"
+    },
+    {
+        "id": 17,
+        "imageName": "sleepy",
+        "companyName" : "Sleepy"
+    },
+    {
+        "id": 18,
+        "imageName": "sok",
+        "companyName" : "ŞOK Market"
+    },
+    {
+        "id": 19,
+        "imageName": "sonoco",
+        "companyName" : "Sonoco"
+    },
+    {
+        "id": 20,
+        "imageName": "swiss-grow",
+        "companyName" : "Swiss Grow"
+    }
+
+]
