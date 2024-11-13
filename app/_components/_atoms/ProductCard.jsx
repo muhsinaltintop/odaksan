@@ -12,10 +12,11 @@ const ProductCard = ({ product }) => {
             <div className="relative w-32 h-32 flex justify-center items-center">
               <Image
                 src={product.featuredImage}
-                layout="fill"
+                width={100}
+                height={100}
                 objectFit="contain"
                 alt="focus-srd"
-                className="z-10 rounded-full"
+                className="z-10"
               />
               {/* Responsive overlay with centered gradient and hover effect */}
               <div className="absolute inset-0 rounded-full bg-gradient-to-t from-white to-yellow-50 shadow-lg transition-shadow duration-200 group-hover:shadow-xl group-hover:shadow-[#2c244f]" />

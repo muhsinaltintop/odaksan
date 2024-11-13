@@ -19,7 +19,6 @@ const TurkeyMap = () => {
             src="/turkey.svg" 
             width={1200} 
             height={540} 
-            layout="responsive" 
             alt="Turkey Map" 
             priority
           />
